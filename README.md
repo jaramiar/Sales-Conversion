@@ -1,6 +1,8 @@
 # Sales-Conversion
 What can we learn about from a KNN classifier on social media ad campaigns? What will this tell us about their sales conversions?
 
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 PURPOSE AND CONTENT
 
 This project's aim is to conduct an exploratory analysis of a Facebook advertisement campaign for an anonymous organization. The dataset is comprised of the following: 
