@@ -1,2 +1,2 @@
 # Sales-Conversion
-Analyzing an advertisement campaign with a KNN Classification Model built on customer demographics, web impressions, and clicks. 
+What can we learn from a KNN classifier on the three advertisement campaigns? What will this tell us about them?
