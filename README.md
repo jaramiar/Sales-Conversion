@@ -5,7 +5,7 @@ What can we learn about about an anonymous company's social media ad campaigns? 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 PURPOSE AND CONTENT
 
-This project's aim is to garner a deeper understanding of Facebook ads based on customer demographics, impressions, clicks, and sales conversion. What qualities or trends correlate with better sales? In addition, a KNN classification will be conducted on the ad campaigns.
+This project's aim is to garner a deeper understanding of the anonymour company's Facebook ads based on customer demographics, impressions, clicks, and sales conversion. What qualities or trends correlate with better sales? In addition, a KNN classification will be conducted on the ad campaigns.
 
 1.) ad_id: the unique ID for each ad.
 
