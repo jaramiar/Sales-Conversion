@@ -15,7 +15,7 @@ This project's aim is to garner a deeper understanding of the anonymous company'
 
 4.) age: age of the person to whom the ad is shown.
 
-5.) gender: gender of the person to whom the add is shown
+5.) gender: gender of the person to whom the add is shown.
 
 6.) interest: a code specifying the category to which the person’s interest belongs (interests are as mentioned in the person’s Facebook public profile).
 
